@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kgarrison133
 - 👀 I’m interested in softwear development, video games, and seeing new places. 
-- 🌱 I’m currently learning Java along with some business management courses. 
-- 💞️ I’m looking to collaborate on anything. I have very little experience with programming, so I would like to do as much as possible. 
+- 🌱 I’m currently I know Java, HTML, CSS, SQL, and I'm learning python. I also fully understand the SDLC and can readily implement it into projects.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: Kgarrison13@mail.valenciacollege.edu
 
 <!---
